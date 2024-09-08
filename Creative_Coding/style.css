@@ -1,14 +1,14 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(182, 205, 175);
     margin:0;
     padding:0;
 }
 p{
-    font-family: fantasy;
+    font-family: 'Times New Roman';
     font-size: 2em;
 }
 a:visited{
-    color:bisque;
+    color:rgb(71, 137, 71);
 }
 a:hover{
     font-size: 1.5em;
