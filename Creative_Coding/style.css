@@ -14,3 +14,9 @@ a:visited{
 a:hover{
     color:aliceblue;
 }
+a{
+    font-size: 25px;
+}
+img{
+    margin-top: 25px;
+}
