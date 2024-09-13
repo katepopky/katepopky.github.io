@@ -1,15 +1,16 @@
 body{
-    background-color: rgb(182, 205, 175);
+    background-color: rgb(23, 13, 73);
     margin:0;
     padding:0;
 }
 p{
-    font-family: 'Times New Roman';
+    font-family: 'Futura';
     font-size: 2em;
+    color: aliceblue;
 }
 a:visited{
-    color:rgb(71, 137, 71);
+    color:rgb(175, 210, 175);
 }
 a:hover{
-    font-size: 1.5em;
+    color:aliceblue;
 }
